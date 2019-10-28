@@ -1,5 +1,5 @@
 $ok = 0;
-$warning = 1;
+#$warning = 1;
 $critical = 2;
 $criticalValue = 50
 $directory = "C:\Users\username\Downloads"
